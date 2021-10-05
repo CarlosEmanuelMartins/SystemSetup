@@ -1,0 +1,59 @@
+# Software List:
+
+## PC management 
+
+cpu-z
+* keepassXC
+* hpwebcam 4310 sofware
+* 7-zip
+* windows debloter
+* Daphine or other windows task manager
+
+## Media
+* vlc media player
+* zettler
+* notepad++ (NppmarkdownPanel + (pulugins-> plugin folder->NppmarkdownPanel folder-> copy past style doc ))
+* 4k video downloader4.11
+* adoble digital edition
+* adobe acrobat reader
+office
+
+## Media edition
+* Davinci resolve
+* paint.net
+* audacity
+* balabolka
+* obs
+
+## internet use
+
+* brave
+* brave extencions
+* brave bookmarks
+* qbittorrent
+
+## brave extencions
+
+* df tube
+* text mode
+* video Screenshot
+* youtbue MP3 downloader
+* 4chan x
+* copy all urls
+* super simple auto refresh
+* Improve YouTube! (Open-Source for YouTube)
+
+## Comunication
+
+* discord
+* mocrosoft teams
+* zoom
+
+## programing
+* netbeans
+* Bluej
+* visual studio
+* octave
+
+## Games
+Steam

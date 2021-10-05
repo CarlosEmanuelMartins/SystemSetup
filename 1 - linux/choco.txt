@@ -1,0 +1,68 @@
+## how to insatall choco
+
+1. serch powershell in windos and **open as administator**
+2. run ´Set-ExecutionPolicy Bypass -Scope Process´
+3. run ´Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))´
+
+## List of choco install comands
+
+´´´
+choco install adobereader
+choco install keepassxc
+choco install cpu-z
+choco install 7zip
+choco install vlc
+choco install vlc-skins
+choco install adobedigitaleditions
+choco install adobereader
+choco install paint.net
+choco install audacity
+choco install balabolka
+choco install obs-studio
+choco install brave
+choco install qbittorrent
+choco install discord
+choco install microsoft-teams
+choco install zoom
+choco install bluej-bundled
+choco install netbeans
+choco install steam
+choco install epicgameslauncher
+choco install leagueoflegendseuw
+choco install octave
+choco install googlechrome
+choco install notepadplusplus.install
+choco install zettlr
+´´´
+## single intall comand
+
+´´´
+choco install adobereader keepassxc cpu-z 7zip vlc vlc-skins adobedigitaleditions adobereader paint.net audacity balabolka obs-studio brave qbittorrent discord microsoft-teams zoom bluej-bundled netbeans steam epicgameslauncher leagueoflegendseuw octave googlechrome notepadplusplus.install zettlr
+´´´
+## Programs not present in choco repository
+
+* hpwebcam 4310 sofware
+* windows debloter
+* zettler
+* 4k video downloader4.11
+* office
+* Davinci resolve
+* visual studio
+* brave bookmarks
+
+## brave extencions
+
+* df tube
+* text mode
+* video Screenshot
+* youtbue MP3 downloader
+* 4chan x
+* copy all urls
+* super simple auto refresh
+* notepad++ (NppmarkdownPanel + (pulugins-> plugin folder->NppmarkdownPanel folder-> copy past style doc ))
+
+##
+final fantay 14
+guild wars 2
+
+
